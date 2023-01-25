@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SimonHurtado/static/css/main.e6c13ad2.css",
+    "main.js": "/SimonHurtado/static/js/main.9832cbb5.js",
+    "static/js/787.190deaf0.chunk.js": "/SimonHurtado/static/js/787.190deaf0.chunk.js",
+    "index.html": "/SimonHurtado/index.html",
+    "main.e6c13ad2.css.map": "/SimonHurtado/static/css/main.e6c13ad2.css.map",
+    "main.9832cbb5.js.map": "/SimonHurtado/static/js/main.9832cbb5.js.map",
+    "787.190deaf0.chunk.js.map": "/SimonHurtado/static/js/787.190deaf0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9832cbb5.js"
+  ]
+}
